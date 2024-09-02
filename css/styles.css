@@ -66,14 +66,18 @@ body{
         height: 56px;
         background: #4d5ae5;
 }
-.main-page-btn.hover{
-    background-color: #404BBF;
-}
-.main-page-btn.focus{
-    background-color: #404BBF;
+
+.benefits-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
 }
 
-
-.text-descr{
-    
+.benefits-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
 }
