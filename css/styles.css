@@ -66,6 +66,12 @@ body{
         height: 56px;
         background: #4d5ae5;
 }
+.main-page-btn.hover{
+    background-color: #404BBF;
+}
+.main-page-btn.focus{
+    background-color: #404BBF;
+}
 
 
 .text-descr{
