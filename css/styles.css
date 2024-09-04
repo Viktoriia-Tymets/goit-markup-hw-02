@@ -38,7 +38,15 @@ body{
         letter-spacing: 0.02em;
         color: #434455;
         font-style: normal;
+        
+        
 }
+a:hover,
+a:focus{
+    color: #404bbf;
+}
+
+
 
 .address{
     font-style: normal;
