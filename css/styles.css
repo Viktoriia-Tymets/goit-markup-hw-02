@@ -79,6 +79,12 @@ a:focus{
         background: #4d5ae5;
 }
 
+.button:hover,
+.button:focus{
+background-color: #404BBF;
+}
+
+
 .benefits-title{
     font-weight: 500;
     font-size: 20px;
