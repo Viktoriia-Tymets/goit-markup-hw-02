@@ -47,8 +47,6 @@ body{
 
 
 .main-page-container{
-    width: 1440px;
-        height: 600px;
         background: #2e2f42;
 
 }
@@ -70,8 +68,6 @@ body{
     color: #ffffff;
     cursor: pointer;
     font-weight: 500;
-        width: 169px;
-        height: 56px;
         background: #4d5ae5;
 }
 
