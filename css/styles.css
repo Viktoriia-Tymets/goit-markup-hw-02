@@ -171,7 +171,7 @@ text-transform: uppercase;
 color:#4d5ae5;
 }
 
-.logo-2{
+.logo-span{
     color: #f4f4fd;
     
 }
@@ -179,4 +179,5 @@ color:#4d5ae5;
 .footer-text{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color:#F4F4FD;
 }
