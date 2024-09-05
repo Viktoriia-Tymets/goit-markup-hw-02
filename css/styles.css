@@ -79,9 +79,9 @@ a:focus{
         background: #4d5ae5;
 }
 
-.button:hover,
-.button:focus{
-background-color: #404BBF;
+.main-page-btn:hover,
+.main-page-btn:focus{
+    background-color: #404BBF;
 }
 
 
